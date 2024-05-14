@@ -1,0 +1,8 @@
+USERNAME,PASSWORD,CONFIRM_PASSWORD,MESSAGE,DATE_TIME,STATUS
+username,password,password,Created user successfully.,2023-08-07 00:06:43,SUCCESS
+username,password,password,Username is existed.,2023-08-07 00:06:51,FAIL
+username,pas,password,Username is existed.,2023-08-07 00:06:54,FAIL
+username,password,password123,Username is existed.,2023-08-07 00:06:59,FAIL
+username2,password,password123,Password and confirm password do not match.,2023-08-07 00:07:01,FAIL
+username,password,password123,Username is existed.,2023-08-07 00:07:04,FAIL
+username2,password,password,Created user successfully.,2023-08-07 00:07:10,SUCCESS
